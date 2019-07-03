@@ -3,64 +3,64 @@
     "id": 1,
     "name": "Blue Flower",
     "image":
-      "../images/blue-flower.jpg"
+      "./images/blue-flower.jpg"
   },
   {
     "id": 2,
     "name": "Blue Hydrangea",
     "image":
-      "../images/blue-hydrangea.jpg"
+      "./images/blue-hydrangea.jpg"
   },
   {
     "id": 3,
     "name": "Cherry Blossom",
     "image":
-      "../images/cherry-blossom.jpg"
+      "./images/cherry-blossom.jpg"
   },
   {
     "id": 4,
     "name": "Hawaiin Flower",
-    "image": "../images/hawaiin-flower.jpg"
+    "image": "./images/hawaiin-flower.jpg"
   },
   {
     "id": 5,
     "name": "Lily Flower",
-    "image": "../images/lily-flower.jpg"
+    "image": "./images/lily-flower.jpg"
   },
   {
     "id": 6,
     "name": "Orange Flower",
-    "image": "../images/orange-flower.jpg"
+    "image": "./images/orange-flower.jpg"
   },
   {
     "id": 7,
     "name": "Pink Flower",
-    "image": "../images/pink-flower.jpg"
+    "image": "./images/pink-flower.jpg"
   },
   {
     "id": 8,
     "name": "Poppy",
-    "image": "../images/poppy.jpeg"
+    "image": "./images/poppy.jpeg"
   },
   {
     "id": 9,
     "name": "Purple Flower",
-    "image": "../images/purple-flower.jpg"
+    "image": "./images/purple-flower.jpg"
   },
   {
     "id": 10,
     "name": "Rose",
-    "image": "../images/rose.jpg"
+    "image": "./images/rose.jpg"
   },
   {
     "id": 11,
     "name": "Sunflower",
-    "image": "../images/sunflower.jpg"
+    "image": "./images/sunflower.jpg"
   },
   {
     "id": 12,
     "name": "Water Lily",
-    "image": "../images/water-lily.jpg"
+    "image": "./images/water-lily.jpg"
   }
 
 ]
