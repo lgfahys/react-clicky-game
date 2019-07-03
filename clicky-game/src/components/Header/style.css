@@ -1,0 +1,12 @@
+.navbar {
+    background: whitesmoke;
+  }
+.navbar-brand {
+    font-size: large;
+    color: darkorchid;
+}
+
+.navbar-text {
+  color: darkorchid;
+}
+  

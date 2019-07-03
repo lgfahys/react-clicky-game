@@ -5,9 +5,9 @@ function Header(props) {
   return (
     <div>
         <nav className="navbar">
-            <span className="navbar-brand">React Clicky Game</span>
-            <span class="navbar-text">
-                Score: 0 | Top Score: 0
+            <span className="navbar-brand">{props.children}</span>
+            <span className="navbar-text">
+                Score: {props.score} | Top Score: {props.highscore}
             </span>
         </nav>
     </div>
